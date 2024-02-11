@@ -1,0 +1,10 @@
+/* style sheet */
+td {
+    border: solid 1px;
+}
+table {
+    border: solid 1px;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
